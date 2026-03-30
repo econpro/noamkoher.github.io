@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Noam Koher"
-  bio              : #"Short biography for the left-hand sidebar"
+  bio              : " "
   location         : "London, United Kingdom"
   employer         : "London School of Economics"
   uri              : # URL
